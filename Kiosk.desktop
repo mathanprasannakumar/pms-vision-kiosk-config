@@ -1,0 +1,13 @@
+[Desktop Entry]
+Encoding=UTF-8
+Version=1.0
+Type=Application
+Name=Kiosk
+Comment=Chrome Kiosk Mode
+Exec=/home/restricted/kiosk.sh
+X-GNOME-Autostart-enabled=true
+OnlyShowIn=XFCE;GNOME;Unity;
+StartupNotify=false
+Terminal=false
+Hidden=false
+
